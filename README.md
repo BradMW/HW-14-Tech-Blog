@@ -24,7 +24,7 @@
  ## Features
   This project has the ability to make a post with a title and a description that you can type into as well as a save button. After you have saved your post, you can see it appear on the page. Once you have created your post you can click it again to view it.
 
-  Link to Heroku where the app is deployed: 
+  Link to Heroku where the app is deployed: https://hw14-tech-blog-bo.herokuapp.com/
 
 
 ![Homework-14 Tech Blog Post Creation Page](techblog-pic.png)
