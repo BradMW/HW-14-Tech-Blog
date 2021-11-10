@@ -2,6 +2,17 @@ header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
+#banner {
+  background-color: #5B6EA6;
+  color: aliceblue;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+#toptitle {
+  color: #262526;
+}
+
 .no-button {
   background: none;
   border: none;
