@@ -13,7 +13,7 @@
   You must first open the package.json in your terminal and then run npm -i. once you install the packages run npm i express to install express server. after that open the server.js file into your terminal and run node server.js and it will show you are connected to a local host. once the server is up and running go to your browser and enter http://localhost:3001/. 
 
  ## Usage
-  This app can be used to connect with others by making posts taht others can view. Once a post is made it is saved so you can go back and see your posts as well as a list of other posts that have been made
+  This app can be used to connect with others by making posts that others can view. Once a post is made it is saved so you can go back and see your posts as well as a list of other posts that have been made
 
  ## Credits
   [BradMW](https://github.com/BradMW)
